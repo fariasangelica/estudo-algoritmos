@@ -1,5 +1,5 @@
 import random
-from busca_binaria import binary_search
+from Praticando.busca_binaria import binary_search
 
 empty = []
 single = [7]
